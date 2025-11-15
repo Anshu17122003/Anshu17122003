@@ -1,18 +1,18 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anshu Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
 
 - 🌱 I’m currently learning *Langchain*
 
-- 💬 Ask me about *Machine Learning,Deep Learning, Generative AI*
+- 💬 Ask me about *Machine Learning,Deep Learning*
 
-- 📫 How to reach me *ashishchamp323@gmail.com*
+- 📫 How to reach me *anshu17122003@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashish3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashish3010" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshu-kumar-singh-54137222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu kumar singh" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashish3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshu17122003" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish__dayal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_dayal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishchamp323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishchamp323" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishchamp323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishchamp323" height="30" width="40" /></a>
