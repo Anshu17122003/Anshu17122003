@@ -1,14 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 
 <h1 align="center">Hi 👋, I'm Anshu Kumar Singh</h1>
-<h3 align="center">Data Scientist | ML & DL Enthusiast | AI Practitioner</h3>
+<h3 align="center">Data Science Engineer | ML & DL Enthusiast | AI Practitioner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" />
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist from India** with strong expertise in **Machine Learning, Deep Learning, Data Analysis**, and **AI-driven systems**.  
+I'm a passionate **Data Science Engineer from India** with strong expertise in **Machine Learning, Deep Learning, Data Analysis**, and **AI-driven systems**.  
 I love building end-to-end ML pipelines, experimenting with neural networks, and exploring advancements in Generative AI.
 
 - 🔭 Currently improving: **LLMs, Vector Databases, RAG & LangChain**
