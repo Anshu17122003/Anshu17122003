@@ -8,12 +8,12 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Data Science Engineer from India** with strong expertise in **Machine Learning, Deep Learning, Data Analysis**, and **AI-driven systems**.  
+I'm a passionate **Data Science Engineer from India** with strong expertise in **Machine Learning, SQL(Structured Query Lannguage), Data Analysis**, and **AI-driven systems**.  
 I love building end-to-end ML pipelines, experimenting with neural networks, and exploring advancements in Generative AI.
 
 - 🔭 Currently improving: **LLMs, Vector Databases, RAG & LangChain**
-- 🌱 Learning: **Gen_AI**
-- 💬 Ask me about: **SQL, PYTHON, Machine Learning, Deep Learning**
+- 🌱 Learning: **Deep Learning and GenAI**
+- 💬 Ask me about: **SQL, PYTHON, Machine Learning,PowerBI**
 - 📫 Email: **anshu17122003@gmail.com**
 
 ---
